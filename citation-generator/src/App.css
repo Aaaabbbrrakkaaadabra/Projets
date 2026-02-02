@@ -1,0 +1,102 @@
+/* Reset global */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Body avec un joli dégradé */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+/* Conteneur principal */
+.App {
+  background: #fff;
+  padding: 30px 40px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  width: 90%;
+  transition: transform 0.3s;
+}
+
+.App:hover {
+  transform: translateY(-5px);
+}
+
+/* Titre */
+.App h1 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Citation */
+.Citation {
+  background: #f7f7f7;
+  padding: 20px;
+  border-left: 5px solid #667eea;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  font-style: italic;
+  font-size: 1.2rem;
+  color: #555;
+  position: relative;
+}
+
+/* Auteur */
+.Citation::after {
+  content: attr(data-author);
+  display: block;
+  margin-top: 10px;
+  text-align: right;
+  font-weight: bold;
+  color: #333;
+  font-style: normal;
+  font-size: 1rem;
+}
+
+/* Bouton */
+button {
+  background: #667eea;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all 0.3s;
+}
+
+button:hover {
+  background: #5a67d8;
+  transform: scale(1.05);
+}
+
+/* Responsive */
+@media (max-width: 500px) {
+  .App {
+    padding: 20px;
+    margin: auto;
+    min-width: 340px;
+    }
+
+  .App h1 {
+    font-size: 1.5rem;
+  }
+
+  .Citation {
+    font-size: 1rem;
+  }
+
+  button {
+    padding: 10px 20px;
+  }
+}
