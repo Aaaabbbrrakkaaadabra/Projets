@@ -33,11 +33,3 @@ Une application React qui affiche :
 - **CSS / Grid / Flexbox** pour la mise en page responsive  
 
 ---
-
-## Installation
-
-1. Clonez le dépôt :  
-
-```bash
-git clone https://github.com/votre-utilisateur/weather-news-app.git
-cd weather-news-app
