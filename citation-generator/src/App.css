@@ -38,6 +38,11 @@ body {
   margin-bottom: 20px;
 }
 
+ ul {
+  list-style: none;
+
+}
+
 /* Citation */
 .Citation {
   background: #f7f7f7;
