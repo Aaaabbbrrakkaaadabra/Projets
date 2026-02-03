@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "36n8O8du1II=",
+  "success": true,
+  "projectFilePath": "d:\\GIT\\ReactJS\\API\\apiDiablo4\\apiDiablo4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eddy\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\Eddy\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
