@@ -43,18 +43,6 @@ Le projet a été réalisé sans framework ni librairie externe afin de travaill
 
 <hr>
 
-<h2>📂 Structure du projet</h2>
-
-<pre>
-/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-│   ├── images/
-│   └── sounds/
-</pre>
-
 <hr>
 
 <h2>⚙️ Installation</h2>
