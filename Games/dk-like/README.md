@@ -43,25 +43,6 @@ Le projet a été réalisé sans framework ni librairie externe afin de travaill
 
 <hr>
 
-<hr>
-
-<h2>⚙️ Installation</h2>
-
-<ol>
-  <li>Cloner le repository :</li>
-</ol>
-
-<pre>git clone https://github.com/votre-username/donkey-kong-like.git</pre>
-
-<ol start="2">
-  <li>Ouvrir le dossier du projet</li>
-  <li>Lancer <code>index.html</code> dans votre navigateur</li>
-</ol>
-
-<p>Aucune installation supplémentaire n’est nécessaire.</p>
-
-<hr>
-
 <h2>🎮 Contrôles</h2>
 
 <table>
