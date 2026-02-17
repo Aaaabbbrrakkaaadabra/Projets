@@ -1,0 +1,235 @@
+/* =========================
+   Apple Glass UI
+   ========================= */
+
+/* ========= Variables ========= */
+:root {
+  --bg-main: #f5f5f7;
+  --bg-card: rgba(255, 255, 255, 0.65);
+
+  --blue: #0071e3;
+  --blue-hover: #0077ed;
+
+  --green: #34c759;
+  --red: #ff3b30;
+
+  --text-main: #1d1d1f;
+  --text-muted: #6e6e73;
+
+  --border-glass: rgba(255, 255, 255, 0.35);
+
+  --radius-sm: 12px;
+  --radius-md: 18px;
+  --radius-lg: 26px;
+
+  --shadow-glass: 0 20px 40px rgba(0, 0, 0, 0.15);
+
+  --transition: 0.45s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ========= Dark Mode ========= */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-main: #0b0b0d;
+    --bg-card: rgba(28, 28, 30, 0.65);
+
+    --text-main: #f5f5f7;
+    --text-muted: #a1a1a6;
+
+    --border-glass: rgba(255, 255, 255, 0.12);
+
+    --shadow-glass: 0 25px 60px rgba(0, 0, 0, 0.6);
+  }
+}
+
+/* =========================
+   Global
+   ========================= */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco",
+               "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background:
+    radial-gradient(
+      circle at top,
+      rgba(255, 255, 255, 0.35),
+      transparent 60%
+    ),
+    var(--bg-main);
+  color: var(--text-main);
+  -webkit-font-smoothing: antialiased;
+  transition: background-color var(--transition), color var(--transition);
+}
+
+h1 {
+  text-align: center;
+  margin: 36px 0;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+/* =========================
+   Buttons (global)
+   ========================= */
+button {
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: var(--radius-md);
+  transition: all var(--transition);
+}
+
+/* =========================
+   Language switcher
+   ========================= */
+.language-switcher {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+}
+
+.language-switcher button {
+  padding: 10px 20px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.25),
+    rgba(255, 255, 255, 0.05)
+  );
+  color: var(--text-main);
+  border: 1px solid var(--border-glass);
+  backdrop-filter: blur(16px) saturate(180%);
+  box-shadow: var(--shadow-glass);
+}
+
+.language-switcher button:hover:not(:disabled) {
+  transform: translateY(-2px);
+}
+
+.language-switcher button:disabled {
+  opacity: 0.4;
+  box-shadow: none;
+  cursor: default;
+}
+
+/* =========================
+   Grid layout
+   ========================= */
+.leader-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+  padding: 0 30px 70px;
+}
+
+/* =========================
+   Leader Card (GLASS)
+   ========================= */
+.leader-card {
+  position: relative;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.35),
+    rgba(255, 255, 255, 0.1)
+  );
+  backdrop-filter: blur(24px) saturate(200%);
+  border-radius: var(--radius-lg);
+  padding: 20px;
+  border: 1px solid var(--border-glass);
+  box-shadow: var(--shadow-glass);
+  overflow: hidden;
+  transition: transform var(--transition),
+              box-shadow var(--transition);
+}
+
+/* Reflet glass */
+.leader-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    120deg,
+    transparent,
+    rgba(255, 255, 255, 0.25),
+    transparent
+  );
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+.leader-card:hover {
+  transform: translateY(-6px) scale(1.01);
+  box-shadow: 0 35px 80px rgba(0, 0, 0, 0.5);
+}
+
+.leader-card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: var(--radius-md);
+}
+
+.leader-card h3 {
+  margin: 16px 0 6px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.leader-card p {
+  margin: 4px 0;
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+/* =========================
+   Badge Top / Flop
+   ========================= */
+.badge {
+  display: inline-block;
+  margin-top: 14px;
+  padding: 5px 14px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #fff;
+  backdrop-filter: blur(10px);
+}
+
+.badge.top {
+  background: rgba(52, 199, 89, 0.85);
+}
+
+.badge.flop {
+  background: rgba(255, 59, 48, 0.85);
+}
+
+/* =========================
+   Vote buttons
+   ========================= */
+.vote-buttons {
+  display: flex;
+  gap: 14px;
+  margin-top: 18px;
+}
+
+.vote-buttons button {
+  flex: 1;
+  padding: 11px 0;
+  border: 1px solid var(--border-glass);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.35),
+    rgba(255, 255, 255, 0.1)
+  );
+  color: var(--text-main);
+  backdrop-filter: blur(16px);
+  box-shadow: var(--shadow-glass);
+}
+
+.vote-buttons button:hover:not(:disabled) {
+  transform: translateY(-2px);
+}
+
+.vote-buttons button:disabled {
+  opacity: 0.35;
+  box-shadow: none;
+  cursor: default;
+}

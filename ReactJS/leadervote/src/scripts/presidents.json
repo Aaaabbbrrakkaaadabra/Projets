@@ -1,0 +1,1952 @@
+[
+  {
+    "bestVotes": 0,
+    "country": "Albania",
+    "investedAt": "2022-07-24",
+    "name": "Bajram Begaj",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Algeria",
+    "investedAt": "2019-12-19",
+    "name": "Abdelmadjid Tebboune",
+    "party": "National Liberation Front",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Angola",
+    "investedAt": "2017-09-26",
+    "name": "João Lourenço",
+    "party": "People’s Movement for the Liberation of Angola",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Argentina",
+    "investedAt": "2023-12-10",
+    "name": "Javier Milei",
+    "party": "La Libertad Avanza",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Benin",
+    "investedAt": "2021-04-06",
+    "name": "Patrice Talon",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Botswana",
+    "investedAt": "2018-04-01",
+    "name": "Mokgweetsi Masisi",
+    "party": "Botswana Democratic Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Brazil",
+    "investedAt": "2023-01-01",
+    "name": "Luiz Inácio Lula da Silva",
+    "party": "Workers’ Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Bulgaria",
+    "investedAt": "2024-01-22",
+    "name": "Nikolai Denkov",
+    "party": "We Continue the Change–Democratic Bulgaria",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Burkina Faso",
+    "investedAt": "2022-12-06",
+    "name": "Captain Ibrahim Traoré",
+    "party": "Patriotic Movement for Safeguard and Restoration",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Burundi",
+    "investedAt": "2020-06-18",
+    "name": "Évariste Ndayishimiye",
+    "party": "CNDD–FDD",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Cameroon",
+    "investedAt": "1982-11-06",
+    "name": "Paul Biya",
+    "party": "Cameroon People’s Democratic Movement",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Cape Verde",
+    "investedAt": "2021-11-09",
+    "name": "José Maria Neves",
+    "party": "Movement for Democracy",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Central African Republic",
+    "investedAt": "2023-02-07",
+    "name": "Faustin-Archange Touadéra",
+    "party": "United Hearts Movement",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Chad",
+    "investedAt": "2021-04-20",
+    "name": "Mahamat Déby Itno",
+    "party": "Patriotic Salvation Movement",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Colombia",
+    "investedAt": "2022-08-07",
+    "name": "Gustavo Petro",
+    "party": "Historic Pact for Colombia",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Comoros",
+    "investedAt": "2021-03-26",
+    "name": "Azali Assoumani",
+    "party": "Convention for the Renewal of the Comoros",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Congo (Brazzaville)",
+    "investedAt": "1997-10-25",
+    "name": "Denis Sassou Nguesso",
+    "party": "Congolese Labour Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Congo (Kinshasa)",
+    "investedAt": "2019-01-24",
+    "name": "Félix Tshisekedi",
+    "party": "Union for Democracy and Social Progress",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Costa Rica",
+    "investedAt": "2022-05-08",
+    "name": "Rodrigo Chaves Robles",
+    "party": "PPSD",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Croatia",
+    "investedAt": "2025-01-15",
+    "name": "Zlatko Komadina",
+    "party": "Social Democratic Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Cuba",
+    "investedAt": "2019-10-10",
+    "name": "Miguel Díaz-Canel",
+    "party": "Communist Party of Cuba",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Dominica",
+    "investedAt": "2023-10-25",
+    "name": "Sylvanie Burton",
+    "party": "Dominica Labour Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Ecuador",
+    "investedAt": "2021-05-24",
+    "name": "Guillermo Lasso",
+    "party": "CREO",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "El Salvador",
+    "investedAt": "2019-06-01",
+    "name": "Nayib Bukele",
+    "party": "Nuevas Ideas",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Estonia",
+    "investedAt": "2021-10-11",
+    "name": "Alar Karis",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Ethiopia",
+    "investedAt": "2021-10-25",
+    "name": "Sahle-Work Zewde",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Finland",
+    "investedAt": "2018-02-01",
+    "name": "Sauli Niinistö",
+    "party": "National Coalition Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Gabon",
+    "investedAt": "2023-08-30",
+    "name": "Ali Bongo Ondimba",
+    "party": "Gabonese Democratic Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Gambia",
+    "investedAt": "2024-01-21",
+    "name": "Adama Barrow",
+    "party": "National People's Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Ghana",
+    "investedAt": "2025-01-07",
+    "name": "John Dramani Mahama",
+    "party": "National Democratic Congress",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Greece",
+    "investedAt": "2020-03-13",
+    "name": "Katerina Sakellaropoulou",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Guinea",
+    "investedAt": "2021-10-26",
+    "name": "Mamadi Doumbouya",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Guinea-Bissau",
+    "investedAt": "2024-02-14",
+    "name": "Baciro Djá",
+    "party": "African Party for the Independence of Guinea and Cape Verde",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Guyana",
+    "investedAt": "2020-08-02",
+    "name": "Irfaan Ali",
+    "party": "People’s Progressive Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Albania",
+    "investedAt": "2022-07-24",
+    "name": "Bajram Begaj",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Algeria",
+    "investedAt": "2019-12-19",
+    "name": "Abdelmadjid Tebboune",
+    "party": "National Liberation Front",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Angola",
+    "investedAt": "2017-09-26",
+    "name": "João Lourenço",
+    "party": "People’s Movement for the Liberation of Angola",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Benin",
+    "investedAt": "2021-04-06",
+    "name": "Patrice Talon",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Botswana",
+    "investedAt": "2018-04-01",
+    "name": "Mokgweetsi Masisi",
+    "party": "Botswana Democratic Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Brazil",
+    "investedAt": "2023-01-01",
+    "name": "Luiz Inácio Lula da Silva",
+    "party": "Workers’ Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Bulgaria",
+    "investedAt": "2024-01-22",
+    "name": "Nikolai Denkov",
+    "party": "We Continue the Change–Democratic Bulgaria",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Burkina Faso",
+    "investedAt": "2022-12-06",
+    "name": "Captain Ibrahim Traoré",
+    "party": "Patriotic Movement for Safeguard and Restoration",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Burundi",
+    "investedAt": "2020-06-18",
+    "name": "Évariste Ndayishimiye",
+    "party": "CNDD–FDD",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Cape Verde",
+    "investedAt": "2021-11-09",
+    "name": "José Maria Neves",
+    "party": "Movement for Democracy",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Central African Republic",
+    "investedAt": "2023-02-07",
+    "name": "Faustin-Archange Touadéra",
+    "party": "United Hearts Movement",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Chad",
+    "investedAt": "2021-04-20",
+    "name": "Mahamat Idriss Déby",
+    "party": "MPS",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Colombia",
+    "investedAt": "2022-08-07",
+    "name": "Gustavo Petro",
+    "party": "Historic Pact for Colombia",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Comoros",
+    "investedAt": "2021-03-26",
+    "name": "Azali Assoumani",
+    "party": "Convention for the Renewal of the Comoros",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Congo (Republic)",
+    "investedAt": "1979-10-25",
+    "name": "Denis Sassou N’guesso",
+    "party": "Congolese Labour Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Congo (DRC)",
+    "investedAt": "2019-01-24",
+    "name": "Félix Tshisekedi",
+    "party": "Union for Democracy and Social Progress",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Croatia",
+    "investedAt": "2025-01-15",
+    "name": "Zlatko Komadina",
+    "party": "Social Democratic Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Cuba",
+    "investedAt": "2019-10-10",
+    "name": "Miguel Díaz-Canel",
+    "party": "Communist Party of Cuba",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Dominica",
+    "investedAt": "2023-10-25",
+    "name": "Sylvanie Burton",
+    "party": "Dominica Labour Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Ecuador",
+    "investedAt": "2021-05-24",
+    "name": "Guillermo Lasso",
+    "party": "CREO",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "El Salvador",
+    "investedAt": "2019-06-01",
+    "name": "Nayib Bukele",
+    "party": "Nuevas Ideas",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Estonia",
+    "investedAt": "2021-10-11",
+    "name": "Alar Karis",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Ethiopia",
+    "investedAt": "2021-10-25",
+    "name": "Sahle-Work Zewde",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Finland",
+    "investedAt": "2018-02-01",
+    "name": "Sauli Niinistö",
+    "party": "National Coalition Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Gabon",
+    "investedAt": "2025-05-03",
+    "name": "Brice Clotaire Oligui Nguema",
+    "party": "Union démocratique des bâtisseurs",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Gambia",
+    "investedAt": "2024-01-21",
+    "name": "Adama Barrow",
+    "party": "National People’s Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Ghana",
+    "investedAt": "2025-01-07",
+    "name": "John Dramani Mahama",
+    "party": "National Democratic Congress",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Greece",
+    "investedAt": "2020-03-13",
+    "name": "Katerina Sakellaropoulou",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Guinea",
+    "investedAt": "2021-10-26",
+    "name": "Mamadi Doumbouya",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Guinea-Bissau",
+    "investedAt": "2024-02-14",
+    "name": "Baciro Djá",
+    "party": "African Party for the Independence of Guinea and Cape Verde",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Guyana",
+    "investedAt": "2020-08-02",
+    "name": "Irfaan Ali",
+    "party": "People’s Progressive Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Haiti",
+    "investedAt": "2025-08-07",
+    "name": "Laurent Saint‑Cyr",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "Transitional President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Honduras",
+    "investedAt": "2022-01-27",
+    "name": "Xiomara Castro",
+    "party": "LIBRE",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Hungary",
+    "investedAt": "2022-05-10",
+    "name": "Katalin Novák",
+    "party": "Fidesz",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Iceland",
+    "investedAt": "2016-08-01",
+    "name": "Guðni Th. Jóhannesson",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Iran",
+    "investedAt": "1989-06-04",
+    "name": "Ali Khamenei",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "Supreme Leader",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Iraq",
+    "investedAt": "2024-10-03",
+    "name": "Masoud Pezeshkian",
+    "party": "Kurdistan Democratic Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Ireland",
+    "investedAt": "2025-11-11",
+    "name": "Catherine Connolly",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Jamaica",
+    "investedAt": "2025-02-xx",
+    "name": "David Adeang",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Jordan",
+    "investedAt": "1999-02-07",
+    "name": "Abdullah II",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Kazakhstan",
+    "investedAt": "2019-09-09",
+    "name": "Kassym-Jomart Tokayev",
+    "party": "Amanat",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Kenya",
+    "investedAt": "2022-09-13",
+    "name": "William Ruto",
+    "party": "United Democratic Alliance",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Korea, South",
+    "investedAt": "2022-05-10",
+    "name": "Yoon Suk-yeol",
+    "party": "People Power Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Kosovo",
+    "investedAt": "2021-04-04",
+    "name": "Vjosa Osmani",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Kyrgyzstan",
+    "investedAt": "2021-10-15",
+    "name": "Sadyr Japarov",
+    "party": "Mekenchil",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Latvia",
+    "investedAt": "2023-07-08",
+    "name": "Edgars Rinkēvičs",
+    "party": "New Unity",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Lebanon",
+    "investedAt": "2025-01-09",
+    "name": "Joseph Aoun",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Liberia",
+    "investedAt": "2024-01-22",
+    "name": "Joseph Boakai",
+    "party": "Unity Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Lithuania",
+    "investedAt": "2019-07-12",
+    "name": "Gitanas Nausėda",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Madagascar",
+    "investedAt": "2019-01-18",
+    "name": "Andry Rajoelina",
+    "party": "Young Malagasies Determined",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Maldives",
+    "investedAt": "2024-11-xx",
+    "name": "Mohamed Muizzu",
+    "party": "Progressive Party of Maldives",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Mauritania",
+    "investedAt": "2019-08-01",
+    "name": "Mohamed Ould Ghazouani",
+    "party": "Union for the Republic",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Mauritius",
+    "investedAt": "2024-02-xx",
+    "name": "Rama Sithanen",
+    "party": "MSM",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Moldova",
+    "investedAt": "2024-04-04",
+    "name": "Maia Sandu",
+    "party": "Action and Solidarity Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Montenegro",
+    "investedAt": "2023-05-20",
+    "name": "Jakov Milatović",
+    "party": "Europe Now!",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Morocco",
+    "investedAt": "1999-07-23",
+    "name": "Mohammed VI",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Mozambique",
+    "investedAt": "2025-01-15",
+    "name": "Daniel Chapo",
+    "party": "FRELIMO",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Namibia",
+    "investedAt": "2024-03-10",
+    "name": "Nehanda Patricia Shikongo",
+    "party": "SWAPO",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Nauru",
+    "investedAt": "2024-11-30",
+    "name": "David Adeang",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Nepal",
+    "investedAt": "2023-03-13",
+    "name": "Ram Chandra Poudel",
+    "party": "Nepali Congress",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Nicaragua",
+    "investedAt": "2007-01-10",
+    "name": "Daniel Ortega",
+    "party": "FSLN",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Nigeria",
+    "investedAt": "2023-05-29",
+    "name": "Bola Tinubu",
+    "party": "All Progressives Congress",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "North Macedonia",
+    "investedAt": "2024-05-12",
+    "name": "Stevo Pendarovski",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Pakistan",
+    "investedAt": "2023-09-05",
+    "name": "Arif Alvi",
+    "party": "Pakistan Tehreek-e-Insaf",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Panama",
+    "investedAt": "2019-07-01",
+    "name": "Laurentino Cortizo",
+    "party": "PRD",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Paraguay",
+    "investedAt": "2023-08-15",
+    "name": "Santiago Peña",
+    "party": "Colorado Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Peru",
+    "investedAt": "2026-02-xx",
+    "name": "José Jerí",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Poland",
+    "investedAt": "2025-10-xx",
+    "name": "Donald Tusk",
+    "party": "Civic Platform",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Portugal",
+    "investedAt": "2026-01-xx",
+    "name": "Duarte Pacheco",
+    "party": "Socialist Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Qatar",
+    "investedAt": "2024-11-xx",
+    "name": "Sheikh Tamim bin Hamad Al Thani",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Romania",
+    "investedAt": "2024-12-xx",
+    "name": "Klaus Iohannis",
+    "party": "National Liberal Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "San Marino",
+    "investedAt": "2025-04-01",
+    "name": "Alberto Righi",
+    "party": "PDCS",
+    "photoUrl": "",
+    "role": "Captain Regent",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Sao Tome and Principe",
+    "investedAt": "2025-01-15",
+    "name": "Carlos Vila Nova",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Senegal",
+    "investedAt": "2019-04-02",
+    "name": "Macky Sall",
+    "party": "Alliance for the Republic",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Serbia",
+    "investedAt": "2022-05-31",
+    "name": "Aleksandar Vučić",
+    "party": "Serbian Progressive Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Seychelles",
+    "investedAt": "2020-10-26",
+    "name": "Wavel Ramkalawan",
+    "party": "Linyon Demokratik Seselwa",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Sierra Leone",
+    "investedAt": "2023-04-04",
+    "name": "Julius Maada Bio",
+    "party": "SLPP",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Singapore",
+    "investedAt": "2023-09-14",
+    "name": "Tharman Shanmugaratnam",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Slovakia",
+    "investedAt": "2024-06-15",
+    "name": "Peter Pellegrini",
+    "party": "Hlas-SD",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Slovenia",
+    "investedAt": "2022-12-23",
+    "name": "Nataša Pirc Musar",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Solomon Islands",
+    "investedAt": "2024-11-xx",
+    "name": "Jeremiah Manele",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Jamaica",
+    "investedAt": "2025-02-xx",
+    "name": "David Adeang",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Jordan",
+    "investedAt": "1999-02-07",
+    "name": "Abdullah II",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Kazakhstan",
+    "investedAt": "2019-09-09",
+    "name": "Kassym-Jomart Tokayev",
+    "party": "Amanat",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Kenya",
+    "investedAt": "2022-09-13",
+    "name": "William Ruto",
+    "party": "United Democratic Alliance",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Korea, South",
+    "investedAt": "2022-05-10",
+    "name": "Yoon Suk-yeol",
+    "party": "People Power Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Kosovo",
+    "investedAt": "2021-04-04",
+    "name": "Vjosa Osmani",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Kyrgyzstan",
+    "investedAt": "2021-10-15",
+    "name": "Sadyr Japarov",
+    "party": "Mekenchil",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Latvia",
+    "investedAt": "2023-07-08",
+    "name": "Edgars Rinkēvičs",
+    "party": "New Unity",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Lebanon",
+    "investedAt": "2025-01-09",
+    "name": "Joseph Aoun",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Liberia",
+    "investedAt": "2024-01-22",
+    "name": "Joseph Boakai",
+    "party": "Unity Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Lithuania",
+    "investedAt": "2019-07-12",
+    "name": "Gitanas Nausėda",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Madagascar",
+    "investedAt": "2019-01-18",
+    "name": "Andry Rajoelina",
+    "party": "Young Malagasies Determined",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Maldives",
+    "investedAt": "2024-11-xx",
+    "name": "Mohamed Muizzu",
+    "party": "Progressive Party of Maldives",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Mauritania",
+    "investedAt": "2019-08-01",
+    "name": "Mohamed Ould Ghazouani",
+    "party": "Union for the Republic",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Mauritius",
+    "investedAt": "2024-02-xx",
+    "name": "Rama Sithanen",
+    "party": "MSM",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Moldova",
+    "investedAt": "2024-04-04",
+    "name": "Maia Sandu",
+    "party": "Action and Solidarity Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Montenegro",
+    "investedAt": "2023-05-20",
+    "name": "Jakov Milatović",
+    "party": "Europe Now!",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Morocco",
+    "investedAt": "1999-07-23",
+    "name": "Mohammed VI",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Mozambique",
+    "investedAt": "2025-01-15",
+    "name": "Daniel Chapo",
+    "party": "FRELIMO",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Namibia",
+    "investedAt": "2024-03-10",
+    "name": "Nehanda Patricia Shikongo",
+    "party": "SWAPO",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Nauru",
+    "investedAt": "2024-11-30",
+    "name": "David Adeang",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Nepal",
+    "investedAt": "2023-03-13",
+    "name": "Ram Chandra Poudel",
+    "party": "Nepali Congress",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Nicaragua",
+    "investedAt": "2007-01-10",
+    "name": "Daniel Ortega",
+    "party": "FSLN",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Nigeria",
+    "investedAt": "2023-05-29",
+    "name": "Bola Tinubu",
+    "party": "All Progressives Congress",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "North Macedonia",
+    "investedAt": "2024-05-12",
+    "name": "Stevo Pendarovski",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Pakistan",
+    "investedAt": "2023-09-05",
+    "name": "Arif Alvi",
+    "party": "Pakistan Tehreek-e-Insaf",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Panama",
+    "investedAt": "2019-07-01",
+    "name": "Laurentino Cortizo",
+    "party": "PRD",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Paraguay",
+    "investedAt": "2023-08-15",
+    "name": "Santiago Peña",
+    "party": "Colorado Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Peru",
+    "investedAt": "2026-02-xx",
+    "name": "José Jerí",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Poland",
+    "investedAt": "2025-10-xx",
+    "name": "Donald Tusk",
+    "party": "Civic Platform",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Portugal",
+    "investedAt": "2026-01-xx",
+    "name": "Duarte Pacheco",
+    "party": "Socialist Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Qatar",
+    "investedAt": "2024-11-xx",
+    "name": "Sheikh Tamim bin Hamad Al Thani",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Romania",
+    "investedAt": "2024-12-xx",
+    "name": "Klaus Iohannis",
+    "party": "National Liberal Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "San Marino",
+    "investedAt": "2025-04-01",
+    "name": "Alberto Righi",
+    "party": "PDCS",
+    "photoUrl": "",
+    "role": "Captain Regent",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Sao Tome and Principe",
+    "investedAt": "2025-01-15",
+    "name": "Carlos Vila Nova",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Senegal",
+    "investedAt": "2019-04-02",
+    "name": "Macky Sall",
+    "party": "Alliance for the Republic",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Serbia",
+    "investedAt": "2022-05-31",
+    "name": "Aleksandar Vučić",
+    "party": "Serbian Progressive Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Seychelles",
+    "investedAt": "2020-10-26",
+    "name": "Wavel Ramkalawan",
+    "party": "Linyon Demokratik Seselwa",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Sierra Leone",
+    "investedAt": "2023-04-04",
+    "name": "Julius Maada Bio",
+    "party": "SLPP",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Singapore",
+    "investedAt": "2023-09-14",
+    "name": "Tharman Shanmugaratnam",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Slovakia",
+    "investedAt": "2024-06-15",
+    "name": "Peter Pellegrini",
+    "party": "Hlas-SD",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Slovenia",
+    "investedAt": "2022-12-23",
+    "name": "Nataša Pirc Musar",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Solomon Islands",
+    "investedAt": "2024-11-xx",
+    "name": "Jeremiah Manele",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Afghanistan",
+    "investedAt": "2021-08-15",
+    "name": "Hibatullah Akhundzada",
+    "party": "Taliban",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Bahrain",
+    "investedAt": "1999-01-06",
+    "name": "Hamad bin Isa Al Khalifa",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Barbados",
+    "investedAt": "2021-11-30",
+    "name": "Sandra Mason",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Belarus",
+    "investedAt": "2025-03-25",
+    "name": "Alexander Lukashenko",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Bosnia and Herzegovina",
+    "investedAt": "2024-07-10",
+    "name": "Željko Komšić",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "Chairman of the Presidency",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Brunei",
+    "investedAt": "1967-01-01",
+    "name": "Hassanal Bolkiah",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Czech Republic",
+    "investedAt": "2023-03-09",
+    "name": "Petr Pavel",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Dominican Republic",
+    "investedAt": "2020-08-16",
+    "name": "Luis Abinader",
+    "party": "Modern Revolutionary Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Eritrea",
+    "investedAt": "1993-05-24",
+    "name": "Isaias Afwerki",
+    "party": "People’s Front for Democracy and Justice",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Gambia",
+    "investedAt": "2024-01-21",
+    "name": "Adama Barrow",
+    "party": "National People’s Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Guyana",
+    "investedAt": "2020-08-02",
+    "name": "Irfaan Ali",
+    "party": "People’s Progressive Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Haiti",
+    "investedAt": "2025-08-07",
+    "name": "Laurent Saint‑Cyr",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "Transitional President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Iceland",
+    "investedAt": "2016-08-01",
+    "name": "Guðni Th. Jóhannesson",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Iran",
+    "investedAt": "1989-06-04",
+    "name": "Ali Khamenei",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "Supreme Leader",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Ireland",
+    "investedAt": "2025-11-11",
+    "name": "Catherine Connolly",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Kosovo",
+    "investedAt": "2021-04-04",
+    "name": "Vjosa Osmani",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Kyrgyzstan",
+    "investedAt": "2021-10-15",
+    "name": "Sadyr Japarov",
+    "party": "Mekenchil",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Latvia",
+    "investedAt": "2023-07-08",
+    "name": "Edgars Rinkēvičs",
+    "party": "New Unity",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Lebanon",
+    "investedAt": "2025-01-09",
+    "name": "Joseph Aoun",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Liberia",
+    "investedAt": "2024-01-22",
+    "name": "Joseph Boakai",
+    "party": "Unity Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Lithuania",
+    "investedAt": "2019-07-12",
+    "name": "Gitanas Nausėda",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Marshall Islands",
+    "investedAt": "2024-01-13",
+    "name": "Hilda Heine",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Mauritius",
+    "investedAt": "2024-02-xx",
+    "name": "Rama Sithanen",
+    "party": "MSM",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Moldova",
+    "investedAt": "2024-04-04",
+    "name": "Maia Sandu",
+    "party": "Action and Solidarity Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Monaco",
+    "investedAt": "2025-xx-xx",
+    "name": "Delphine Theron",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Montenegro",
+    "investedAt": "2023-05-20",
+    "name": "Jakov Milatović",
+    "party": "Europe Now!",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Nauru",
+    "investedAt": "2024-11-30",
+    "name": "David Adeang",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Nepal",
+    "investedAt": "2023-03-13",
+    "name": "Ram Chandra Poudel",
+    "party": "Nepali Congress",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Nicaragua",
+    "investedAt": "2007-01-10",
+    "name": "Daniel Ortega",
+    "party": "FSLN",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "North Macedonia",
+    "investedAt": "2024-05-12",
+    "name": "Stevo Pendarovski",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Pakistani President",
+    "investedAt": "2023-09-05",
+    "name": "Arif Alvi",
+    "party": "Pakistan Tehreek-e-Insaf",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Panama",
+    "investedAt": "2019-07-01",
+    "name": "Laurentino Cortizo",
+    "party": "PRD",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Paraguay",
+    "investedAt": "2023-08-15",
+    "name": "Santiago Peña",
+    "party": "Colorado Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Poland",
+    "investedAt": "2025-10-xx",
+    "name": "Donald Tusk",
+    "party": "Civic Platform",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Portugal",
+    "investedAt": "2026-01-xx",
+    "name": "Duarte Pacheco",
+    "party": "Socialist Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Qatar",
+    "investedAt": "2024-11-xx",
+    "name": "Tamim bin Hamad Al Thani",
+    "party": "Independent",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  },
+  {
+    "bestVotes": 0,
+    "country": "Romania",
+    "investedAt": "2024-12-xx",
+    "name": "Klaus Iohannis",
+    "party": "National Liberal Party",
+    "photoUrl": "",
+    "role": "President",
+    "worstVotes": 0
+  }
+]
