@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root {
+  --bg: #FFFFFF;        /* Fond très clair */
+  --text: #232F3E;      /* Texte noir bleuté (Gunmetal) */
+  --accent: #00b7ff;    /* Orange vif (Amazon Orange) */
+  --hover: #E59400;     /* Orange un peu plus foncé au survol */
+  --dark-bg: #131A22;   /* Fond sombre profond en mode dark (Eerie Black) */
+  --dark-text: #FFFFFF; /* Texte blanc pour mode sombre */
+}
+
+body.dark-mode {
+  background-color: var(--dark-bg);
+  color: var(--dark-text);
+}
