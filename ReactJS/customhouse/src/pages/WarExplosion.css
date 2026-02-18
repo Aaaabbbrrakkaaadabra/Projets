@@ -1,0 +1,40 @@
+.war-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.title {
+  text-align: center;
+  margin: 10px 0;
+  font-size: 28px;
+  font-weight: bold;
+  color: #222;
+}
+
+.bomb-selector {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  background: #333;
+}
+
+.bomb-button {
+  padding: 8px 16px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  background: #555;
+  color: white;
+  font-size: 14px;
+  transition: background 0.2s ease;
+}
+
+.bomb-button:hover {
+  background: #777;
+}
+
+.bomb-button.active {
+  background: #1e90ff;
+}

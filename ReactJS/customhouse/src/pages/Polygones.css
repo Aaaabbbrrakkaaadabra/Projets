@@ -1,0 +1,148 @@
+
+/* ========== Zone d’upload ========== */
+/* Utilisable directement sur un <label> qui wrappe l’input, ou sur un div conteneur */
+.upload{
+  display: grid;
+  place-items: center;
+  text-align: center;
+  gap: 10px;
+  min-height: 160px;
+  border: 1.5px dashed rgba(255,255,255,.18);
+  border-radius: var(--radius);
+  background: rgba(255,255,255,.02);
+  transition: border-color .2s ease, background .2s ease, transform .1s ease;
+  cursor: pointer;
+}
+.upload:hover{
+  background: rgba(255,255,255,.04);
+  border-color: var(--accent);
+}
+.upload:active{
+  transform: scale(.995);
+}
+.upload .hint{
+  color: var(--muted);
+  font-size: 13px;
+}
+
+/* Cache l’input natif si tu utilises un label clickable */
+.input-file{
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0);
+  border: 0;
+}
+
+/* Si tu gardes l’input visible */
+input[type="file"]{
+  font-size: 14px;
+  color: var(--txt);
+}
+input[type="file"]::file-selector-button{
+  margin-right: 12px;
+  padding: 8px 12px;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(255,255,255,.06);
+  color: var(--txt);
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background .2s ease, border-color .2s ease, transform .05s ease;
+}
+input[type="file"]::file-selector-button:hover{
+  background: rgba(255,255,255,.12);
+  border-color: var(--accent);
+}
+input[type="file"]::file-selector-button:active{
+  transform: translateY(1px);
+}
+
+/* ========== Barre de contrôles (boutons / sliders) ========== */
+.controls{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  margin: 16px 0;
+}
+.btn{
+  appearance: none;
+  border: 1px solid rgba(255,255,255,.14);
+  background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.03));
+  color: var(--txt);
+  padding: 10px 14px;
+  border-radius: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: border-color .2s ease, box-shadow .2s ease, transform .05s ease, background .2s ease;
+}
+.btn:hover{
+  border-color: var(--accent);
+  box-shadow: 0 0 0 6px var(--ring);
+}
+.btn:active{ transform: translateY(1px); }
+.btn.primary{
+  background: linear-gradient(180deg, var(--accent), var(--accent-2));
+  border-color: transparent;
+  color: #0a0b12;
+}
+.btn.ghost{
+  background: transparent;
+}
+
+.slider{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: var(--muted);
+}
+.slider input[type="range"]{
+  width: min(42vw, 320px);
+  accent-color: var(--accent);
+}
+
+/* ========== Cadre d’aperçu SVG ========== */
+.preview{
+  margin-top: 16px;
+  overflow: hidden;
+  border-radius: var(--radius);
+  border: 1px solid rgba(255,255,255,.10);
+  background: #0a0b12;
+  display: grid;
+  place-items: center;
+}
+.preview .canvas-wrap{
+  width: 100%;
+  max-width: 900px;
+  padding: 10px;
+}
+.preview svg{
+  display: block;
+  width: 100%;
+  height: auto;         /* rend l’<svg> responsive même si width/height sont fixés dans le JSX */
+}
+
+/* Optionnel : style des triangles si tu n’en mets pas inline dans React */
+.preview polygon{
+  vector-effect: non-scaling-stroke;
+  /* stroke: rgba(255,255,255,.2);
+     stroke-width: .5; */
+}
+
+/* ========== États & messages ========== */
+.note{
+  font-size: 13px;
+  color: var(--muted);
+}
+.badge{
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .2px;
+  background: rgba(255,255,255,.08);
+  border: 1px solid rgba(255,255,255,.14);
+  color: var(--txt);
+}

@@ -1,0 +1,80 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* ul à gauche, boutons à droite */
+  padding: 5px 20px;
+  background-color: #111827;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.menu {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  padding: 0;
+  margin: 0;
+}
+
+.auth-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.btn-login,
+.btn-register {
+  padding: 6px 12px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.btn-login {
+  background-color: transparent;
+  border: 1px solid #FFF;
+  color: #FFF;
+  margin: 5PX;
+}
+
+.btn-register {
+  background-color: transparent;
+  border: 1px solid #FFF;
+  color: #FFF;
+  
+}
+
+.menu li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.hamburger {
+  display: none;
+  font-size: 2rem;
+  color: white;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .menu {
+    flex-direction: column;
+    background-color: #333;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    display: none;
+  }
+
+  .menu.open {
+    display: flex;
+  }
+
+  .hamburger {
+    display: block;
+  }
+}
